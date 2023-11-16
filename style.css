@@ -1,0 +1,62 @@
+body{
+    background-image: url(images/Cos27C3A820un20portale20web20e20che20differenza20c27C3A820con20un20sito.jpg);
+    background-size: cover;
+}
+header{
+    background-color:;
+}
+#logo{
+    margin-left: 1%;
+
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    text-decoration: none;
+    border:2px; border-style:solid;
+    padding: 10px;
+    margin:5px;
+}
+.navigation a:hover{
+    background-color:rgb(11, 170, 170);
+    color:rgb(11, 29, 28);
+}
+.aside{
+    /* border: 2px solid red; */
+    color: white;
+    margin: 100px;
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+}
+.aside{
+    margin-bottom: 15px;
+}
+.aside li{
+    list-style-type: square;
+    padding: 2px;
+}
+.login{
+    border:1px solid red;
+    float: right;
+    background-color: beige;
+    margin-top: 60px;
+    height: 18em;
+    margin-right: 20px;
+    padding: 30px;
+}
+#btn{
+    background-color: dodgerblue;
+    width: 180px;
+    color: white;
+    border: none;
+    height: 1.5em;
+}
+.login h2{
+    text-align: center;
+}
